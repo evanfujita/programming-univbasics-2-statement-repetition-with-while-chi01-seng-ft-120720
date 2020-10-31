@@ -5,5 +5,6 @@ while count > 15 do
   count -= 1
 while count < 15 && count > 10
   puts "#{count} is between 10 and 15"
+  count -= 1
  end
  
